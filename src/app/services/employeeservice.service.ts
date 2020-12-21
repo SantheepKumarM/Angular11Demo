@@ -10,10 +10,10 @@ export class EmployeeService {
   allEmployees:Employee[] = [
     {
       "id": "1",
-      "firstname": "Lalit",
-      "lastname": "Aggarwal",
+      "firstname": "Santheep",
+      "lastname": "Kumar",
       "age": 26,
-      "designation": "Associate Lead, Technology"
+      "designation": "Associate Software Developer, Technology"
     }
   ];
 
